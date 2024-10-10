@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(32, 61, 85);
+}
+
+a{
+    text-align: right;
+    text-decoration: none;
+    margin-right: 50px;
+    color: black;
+    font-size: 20px;
+   
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: right;
+    margin-right: 200px;
+    list-style: none;
+   
+    
+
+}
+a:hover{
+    color: rgba(0, 0, 0, 0.678);
+    background-color: rgba(255, 228, 196, 0);
+}
+img{
+   padding-right: 1000px;
+    border-radius: 100px;
+padding-left: 100px;
+}
+nav{
+    
+}
